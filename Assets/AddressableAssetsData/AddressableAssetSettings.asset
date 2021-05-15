@@ -32,6 +32,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: 099c5958046f7824594a9f2d17e6a447, type: 2}
   - {fileID: 11400000, guid: cc524a370a4c21b4ab60dd0b828c5c86, type: 2}
+  - {fileID: 11400000, guid: ef944d1d15fcb2949bb652683cbe5304, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -53,6 +54,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: bd7f30ea1ff3bba4ebc6ed633b19c3fa
         m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: afb6f90aba3a978408d6e649fb878a74
+      m_ProfileName: Github
+      m_Values:
+      - m_Id: 0adfac0083004a848836a239b09e6288
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: ca99a662bbfaaa046a7501b90f828f33
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: d39c26d9e4064c1448b270a2593ab5aa
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: c9e8a96628476ab4eb75639e3e2e5e81
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: bd7f30ea1ff3bba4ebc6ed633b19c3fa
+        m_Value: https://jmschrack.dev/MGD-AddressablesLesson/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 0adfac0083004a848836a239b09e6288
       m_Name: BuildTarget
@@ -86,7 +101,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 059eea378527cb7468e4023c6d147892, type: 2}
   - {fileID: 11400000, guid: f2b6de1a4e3d9f24f914d3454d9916fd, type: 2}
   - {fileID: 11400000, guid: 2d7e6299c93933d468db2950fbbf18c7, type: 2}
-  m_ActiveProfileId: 750e21f0c77959e4c840dda2adb70c9a
+  m_ActiveProfileId: afb6f90aba3a978408d6e649fb878a74
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
