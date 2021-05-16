@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: af9f17c3381146744a1e82ec2747f246
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 03d72ee43fad58547811f49e6aa96212
+    m_Address: Assets/Prefabs/Example.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UltraLabel
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a3299c31e6ef2524ab5e5d1d81977b80, type: 2}
   m_SchemaSet:

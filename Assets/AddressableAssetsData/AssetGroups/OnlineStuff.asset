@@ -21,6 +21,14 @@ MonoBehaviour:
     m_Address: BetterStuff
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 2e8121b3ea7319e46a65110931ac8558
+    m_Address: Assets/Prefabs/SceneList.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a3299c31e6ef2524ab5e5d1d81977b80, type: 2}
   m_SchemaSet:
